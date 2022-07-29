@@ -1,2 +1,1 @@
-# yuuri-web
-testing react js
+# Testing Create React App with Tailwind
